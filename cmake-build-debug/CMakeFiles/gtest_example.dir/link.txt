@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/gtest_example.dir/main.cpp.o CMakeFiles/gtest_example.dir/fake_class_tests.cpp.o  -o gtest_example 

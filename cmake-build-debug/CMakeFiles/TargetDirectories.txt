@@ -1,0 +1,3 @@
+/home/dev/CLionProjects/gtest_example/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/dev/CLionProjects/gtest_example/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/dev/CLionProjects/gtest_example/cmake-build-debug/CMakeFiles/gtest_example.dir

@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dev/CLionProjects/gtest_example/fake_class.hpp
+iostream
+-
+
+/home/dev/CLionProjects/gtest_example/fake_class_tests.cpp
+gtest/gtest.h
+-
+fake_class.hpp
+/home/dev/CLionProjects/gtest_example/fake_class.hpp
+
